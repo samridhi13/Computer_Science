@@ -1,0 +1,869 @@
+[
+  {
+    "item_id": "1",
+    "image_index": 1,
+    "file": "item_1_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": "1c"
+  },
+  {
+    "item_id": "2",
+    "image_index": 1,
+    "file": "item_2_img_1.png",
+    "original_media_type": "image/jpeg",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "3",
+    "image_index": 1,
+    "file": "item_3_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "4",
+    "image_index": 1,
+    "file": "item_4_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "5",
+    "image_index": 1,
+    "file": "item_5_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": "5b"
+  },
+  {
+    "item_id": "6",
+    "image_index": 1,
+    "file": "item_6_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "7",
+    "image_index": 1,
+    "file": "item_7_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "8",
+    "image_index": 1,
+    "file": "item_8_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "9",
+    "image_index": 1,
+    "file": "item_9_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "10",
+    "image_index": 1,
+    "file": "item_10_img_1.png",
+    "original_media_type": "image/jpeg",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "11",
+    "image_index": 1,
+    "file": "item_11_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "12",
+    "image_index": 1,
+    "file": "item_12_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "13",
+    "image_index": 1,
+    "file": "item_13_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "14",
+    "image_index": 1,
+    "file": "item_14_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "15",
+    "image_index": 1,
+    "file": "item_15_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "16",
+    "image_index": 1,
+    "file": "item_16_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "17",
+    "image_index": 1,
+    "file": "item_17_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "18",
+    "image_index": 1,
+    "file": "item_18_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "19",
+    "image_index": 1,
+    "file": "item_19_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "20",
+    "image_index": 1,
+    "file": "item_20_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "21",
+    "image_index": 1,
+    "file": "item_21_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "22",
+    "image_index": 1,
+    "file": "item_22_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "23",
+    "image_index": 1,
+    "file": "item_23_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "24",
+    "image_index": 1,
+    "file": "item_24_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "24",
+    "image_index": 2,
+    "file": "item_24_img_2.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "25",
+    "image_index": 1,
+    "file": "item_25_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "26",
+    "image_index": 1,
+    "file": "item_26_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "27",
+    "image_index": 1,
+    "file": "item_27_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "28",
+    "image_index": 1,
+    "file": "item_28_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "29",
+    "image_index": 1,
+    "file": "item_29_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "30",
+    "image_index": 1,
+    "file": "item_30_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "31",
+    "image_index": 1,
+    "file": "item_31_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "32",
+    "image_index": 1,
+    "file": "item_32_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "33",
+    "image_index": 1,
+    "file": "item_33_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": "33c"
+  },
+  {
+    "item_id": "34",
+    "image_index": 1,
+    "file": "item_34_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "35",
+    "image_index": 1,
+    "file": "item_35_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "36",
+    "image_index": 1,
+    "file": "item_36_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "37",
+    "image_index": 1,
+    "file": "item_37_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "38",
+    "image_index": 1,
+    "file": "item_38_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "39",
+    "image_index": 1,
+    "file": "item_39_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "40",
+    "image_index": 1,
+    "file": "item_40_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "40",
+    "image_index": 2,
+    "file": "item_40_img_2.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "41",
+    "image_index": 1,
+    "file": "item_41_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "41",
+    "image_index": 2,
+    "file": "item_41_img_2.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "42",
+    "image_index": 1,
+    "file": "item_42_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "43",
+    "image_index": 1,
+    "file": "item_43_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "44",
+    "image_index": 1,
+    "file": "item_44_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "45",
+    "image_index": 1,
+    "file": "item_45_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "46",
+    "image_index": 1,
+    "file": "item_46_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "47",
+    "image_index": 1,
+    "file": "item_47_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "47",
+    "image_index": 2,
+    "file": "item_47_img_2.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "48",
+    "image_index": 1,
+    "file": "item_48_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "49",
+    "image_index": 1,
+    "file": "item_49_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "50",
+    "image_index": 1,
+    "file": "item_50_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "51",
+    "image_index": 1,
+    "file": "item_51_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "52",
+    "image_index": 1,
+    "file": "item_52_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "53",
+    "image_index": 1,
+    "file": "item_53_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "54",
+    "image_index": 1,
+    "file": "item_54_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "55",
+    "image_index": 1,
+    "file": "item_55_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "56",
+    "image_index": 1,
+    "file": "item_56_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "57",
+    "image_index": 1,
+    "file": "item_57_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "58",
+    "image_index": 1,
+    "file": "item_58_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "60",
+    "image_index": 1,
+    "file": "item_60_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "61",
+    "image_index": 1,
+    "file": "item_61_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "61",
+    "image_index": 2,
+    "file": "item_61_img_2.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "62",
+    "image_index": 1,
+    "file": "item_62_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "63",
+    "image_index": 1,
+    "file": "item_63_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "63",
+    "image_index": 2,
+    "file": "item_63_img_2.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "64",
+    "image_index": 1,
+    "file": "item_64_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "65",
+    "original_item_id": "1",
+    "image_index": 1,
+    "file": "item_65_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "66",
+    "original_item_id": "2",
+    "image_index": 1,
+    "file": "item_66_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "67",
+    "original_item_id": "3",
+    "image_index": 1,
+    "file": "item_67_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "68",
+    "original_item_id": "4",
+    "image_index": 1,
+    "file": "item_68_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "69",
+    "original_item_id": "5",
+    "image_index": 1,
+    "file": "item_69_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "70",
+    "original_item_id": "6",
+    "image_index": 1,
+    "file": "item_70_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "71",
+    "original_item_id": "7",
+    "image_index": 1,
+    "file": "item_71_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "72",
+    "original_item_id": "8",
+    "image_index": 1,
+    "file": "item_72_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "73",
+    "original_item_id": "9",
+    "image_index": 1,
+    "file": "item_73_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "74",
+    "original_item_id": "10",
+    "image_index": 1,
+    "file": "item_74_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "75",
+    "original_item_id": "11",
+    "image_index": 1,
+    "file": "item_75_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "76",
+    "original_item_id": "12",
+    "image_index": 1,
+    "file": "item_76_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "77",
+    "original_item_id": "13",
+    "image_index": 1,
+    "file": "item_77_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "78",
+    "original_item_id": "14",
+    "image_index": 1,
+    "file": "item_78_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "79",
+    "original_item_id": "15",
+    "image_index": 1,
+    "file": "item_79_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "80",
+    "original_item_id": "16",
+    "image_index": 1,
+    "file": "item_80_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "81",
+    "original_item_id": "17",
+    "image_index": 1,
+    "file": "item_81_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "81",
+    "original_item_id": "17",
+    "image_index": 2,
+    "file": "item_81_img_2.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": "17a"
+  },
+  {
+    "item_id": "82",
+    "original_item_id": "18",
+    "image_index": 1,
+    "file": "item_82_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": "18b"
+  },
+  {
+    "item_id": "83",
+    "original_item_id": "19",
+    "image_index": 1,
+    "file": "item_83_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "84",
+    "original_item_id": "20",
+    "image_index": 1,
+    "file": "item_84_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "85",
+    "original_item_id": "21",
+    "image_index": 1,
+    "file": "item_85_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "86",
+    "original_item_id": "22",
+    "image_index": 1,
+    "file": "item_86_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "87",
+    "original_item_id": "23",
+    "image_index": 1,
+    "file": "item_87_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "88",
+    "original_item_id": "24",
+    "image_index": 1,
+    "file": "item_88_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "88",
+    "original_item_id": "24",
+    "image_index": 2,
+    "file": "item_88_img_2.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "89",
+    "original_item_id": "25",
+    "image_index": 1,
+    "file": "item_89_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "89",
+    "original_item_id": "25",
+    "image_index": 2,
+    "file": "item_89_img_2.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "90",
+    "original_item_id": "26",
+    "image_index": 1,
+    "file": "item_90_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "91",
+    "original_item_id": "27",
+    "image_index": 1,
+    "file": "item_91_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "92",
+    "original_item_id": "28",
+    "image_index": 1,
+    "file": "item_92_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "93",
+    "original_item_id": "29",
+    "image_index": 1,
+    "file": "item_93_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "93",
+    "original_item_id": "29",
+    "image_index": 2,
+    "file": "item_93_img_2.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "94",
+    "original_item_id": "30",
+    "image_index": 1,
+    "file": "item_94_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "94",
+    "original_item_id": "30",
+    "image_index": 2,
+    "file": "item_94_img_2.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "95",
+    "original_item_id": "31",
+    "image_index": 1,
+    "file": "item_95_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "96",
+    "original_item_id": "32",
+    "image_index": 1,
+    "file": "item_96_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "97",
+    "original_item_id": "33",
+    "image_index": 1,
+    "file": "item_97_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "98",
+    "original_item_id": "34",
+    "image_index": 1,
+    "file": "item_98_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "99",
+    "original_item_id": "35",
+    "image_index": 1,
+    "file": "item_99_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "100",
+    "original_item_id": "36",
+    "image_index": 1,
+    "file": "item_100_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "101",
+    "original_item_id": "37",
+    "image_index": 1,
+    "file": "item_101_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "102",
+    "original_item_id": "38",
+    "image_index": 1,
+    "file": "item_102_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "103",
+    "original_item_id": "39",
+    "image_index": 1,
+    "file": "item_103_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "104",
+    "original_item_id": "40",
+    "image_index": 1,
+    "file": "item_104_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "105",
+    "original_item_id": "41",
+    "image_index": 1,
+    "file": "item_105_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "106",
+    "original_item_id": "42",
+    "image_index": 1,
+    "file": "item_106_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  },
+  {
+    "item_id": "107",
+    "original_item_id": "43",
+    "image_index": 1,
+    "file": "item_107_img_1.png",
+    "original_media_type": "image/png",
+    "sub_figure_label": null
+  }
+]
